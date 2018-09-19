@@ -42,6 +42,14 @@
   </official>
   <development url="https://flumes.iei.liu.se/hopsan/files/releases/development">
     <release>
+      <version>2.9.0.20180915.2229</version>
+      <url>http://flumes.iei.liu.se/hopsan/files/releases/development</url>
+      <win64_installer_with_compiler>windows/Hopsan-2.9.0.20180915.2229-win64-with_compiler-installer.exe</win64_installer_with_compiler>
+      <win64_installer_wo_compiler>windows/Hopsan-2.9.0.20180915.2229-win64-installer.exe</win64_installer_wo_compiler>
+      <win32_installer> </win32_installer>
+      <win32_installer_wo_compiler> </win32_installer_wo_compiler>
+    </release>
+    <release>
       <version>2.8.0.20171002.1146</version>
       <url>http://flumes.iei.liu.se/hopsan/files/releases/development</url>
       <win64_installer>http://flumes.iei.liu.se/hopsan/files/releases/development/windows/Hopsan-2.8.0.20171002.1146-win64-with_compiler-installer.exe</win64_installer>
