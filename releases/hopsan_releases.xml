@@ -2,6 +2,14 @@
 <hopsan_releases format="1">
   <official url="https://flumes.iei.liu.se/hopsan/files/releases/official">
     <release>
+      <version>2.11.0.20190124.2106</version>
+      <url>https://flumes.iei.liu.se/hopsan/files/releases/official/2.11.0</url>
+      <win64_installer_with_compiler>windows/Hopsan-2.11.0-win64-with_compiler-installer.exe</win64_installer_with_compiler>
+      <win64_installer_wo_compiler>windows/Hopsan-2.11.0-win64-installer.exe</win64_installer_wo_compiler>
+      <win32_installer_with_compiler>windows/Hopsan-2.11.0-win32-with_compiler-installer.exe</win32_installer_with_compiler>
+      <win32_installer_wo_compiler>windows/Hopsan-2.11.0-win32-installer.exe</win32_installer_wo_compiler>
+    </release>
+    <release>
       <version>2.10.0.20180927.1358</version>
       <url>https://flumes.iei.liu.se/hopsan/files/releases/official/2.10.0</url>
       <win64_installer_with_compiler>windows/Hopsan-2.10.0-win64-with_compiler-installer.exe</win64_installer_with_compiler>
