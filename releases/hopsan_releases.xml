@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <hopsan_releases format="1">
-  <official url="https://flumes.iei.liu.se/hopsan/files/releases/official">
+  <official url="https://github.com/Hopsan/hopsan/releases">
+    <release>
+      <version>2.13.0.20191126.1813</version>
+      <url>https://github.com/Hopsan/hopsan/releases/tag/v2.13.0</url>
+      <win64_installer_with_compiler sha256="a3234a0666be2afa05fb4148d5782495adf3fb13df9fe046ad8a52e913d5bcea">https://github.com/Hopsan/hopsan/releases/download/v2.13.0/Hopsan-2.13.0-win64-with_compiler-installer.exe</win64_installer_with_compiler>
+      <win64_installer_wo_compiler sha256="615d68c4b7fa4d178e583ed8cebfa46e22d279096d1452d5b22116eb71a22ff0">https://github.com/Hopsan/hopsan/releases/download/v2.13.0/Hopsan-2.13.0-win64-installer.exe</win64_installer_wo_compiler>
+      <win32_installer_with_compiler sha256="8f456ebd9b1af774088fb9fdb5c9ac5a15e4b3cc271cd2efb9b78ddccae63fa3">https://github.com/Hopsan/hopsan/releases/download/v2.13.0/Hopsan-2.13.0-win32-with_compiler-installer.exe</win32_installer_with_compiler>
+      <win32_installer_wo_compiler sha256="9e6588dece66faea6a09b827c70b07ea1aa8e49e1ce1fd711784b5fda4bb3744">https://github.com/Hopsan/hopsan/releases/download/v2.13.0/Hopsan-2.13.0-win32-installer.exe</win32_installer_wo_compiler>
+    </release>
     <release>
       <version>2.12.0.20190716.0004</version>
       <url>https://flumes.iei.liu.se/hopsan/files/releases/official/2.12.0</url>
