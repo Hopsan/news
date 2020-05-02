@@ -2,6 +2,14 @@
 <hopsan_releases format="1">
   <official url="https://github.com/Hopsan/hopsan/releases">
     <release>
+      <version>2.14.0.20200501.1239</version>
+      <url>https://github.com/Hopsan/hopsan/releases/tag/v2.14.0</url>
+      <win64_installer_with_compiler sha256="dee23927d5294b04d8eedda176c7eb70e3d388c71f098eb565aa9fc32122fd2b">https://github.com/Hopsan/hopsan/releases/download/v2.14.0/Hopsan-2.14.0-win64-with_compiler-installer.exe</win64_installer_with_compiler>
+      <win64_installer_wo_compiler sha256="a5735100952b555d9a11d187339ddda3a26fda134aa5510ef1c260f8715132a9">https://github.com/Hopsan/hopsan/releases/download/v2.14.0/Hopsan-2.14.0-win64-installer.exe</win64_installer_wo_compiler>
+      <win32_installer_with_compiler sha256="b1eb425cf39382a7e638a7e63a7d90dd6bb5a41612433b99cf811173abc3b277">https://github.com/Hopsan/hopsan/releases/download/v2.14.0/Hopsan-2.14.0-win32-with_compiler-installer.exe</win32_installer_with_compiler>
+      <win32_installer_wo_compiler sha256="6aec9463c5e5adcbbfd0fe24cd2edd4138bef4b23802b325cba523cfdf0dd16a">https://github.com/Hopsan/hopsan/releases/download/v2.14.0/Hopsan-2.14.0-win32-installer.exe</win32_installer_wo_compiler>
+    </release>
+    <release>
       <version>2.13.0.20191126.1813</version>
       <url>https://github.com/Hopsan/hopsan/releases/tag/v2.13.0</url>
       <win64_installer_with_compiler sha256="a3234a0666be2afa05fb4148d5782495adf3fb13df9fe046ad8a52e913d5bcea">https://github.com/Hopsan/hopsan/releases/download/v2.13.0/Hopsan-2.13.0-win64-with_compiler-installer.exe</win64_installer_with_compiler>
