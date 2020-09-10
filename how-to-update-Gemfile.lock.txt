@@ -1,0 +1,3 @@
+This seems to update the lock file and automatically choose compatible versions without downloading any packages locally. But I am not sure.
+
+bundle lock --update
