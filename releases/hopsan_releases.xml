@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <hopsan_releases format="1">
   <official url="https://github.com/Hopsan/hopsan/releases">
+    <!--NEW_RELEASE_PLACEHOLDER-->
     <release>
       <version>2.14.2.20200522.1852</version>
       <url>https://github.com/Hopsan/hopsan/releases/tag/v2.14.2</url>
