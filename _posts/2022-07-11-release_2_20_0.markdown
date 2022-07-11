@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Release 2.20.0"
+date:   2022-07-11 17:29:17 +02:00
+author: Peter Nordin
+categories: hopsan news
+---
+
+Hopsan version 2.20.0 has now been released
