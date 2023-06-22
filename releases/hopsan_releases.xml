@@ -3,6 +3,12 @@
   <official url="https://github.com/Hopsan/hopsan/releases">
     <!--NEW_RELEASE_PLACEHOLDER-->
     <release>
+      <version>2.21.1.20230622.2033</version>
+      <url>https://github.com/Hopsan/hopsan/releases/tag/v2.21.1</url>
+      <win64_installer_with_compiler sha256="01d0a6b948b3a01aa39bc53cfbb0a5303de35faba5f5c70c8591296d3c39e367">https://github.com/Hopsan/hopsan/releases/download/v2.21.1/Hopsan-2.21.1-win64-with_compiler-installer.exe</win64_installer_with_compiler>
+      <win64_installer_wo_compiler sha256="0b7a26574c25cd46c68ababc1e8b6431a09864537e3103b6239dee2c0ad4df40">https://github.com/Hopsan/hopsan/releases/download/v2.21.1/Hopsan-2.21.1-win64-installer.exe</win64_installer_wo_compiler>
+    </release>
+    <release>
       <version>2.21.0.20230610.1814</version>
       <url>https://github.com/Hopsan/hopsan/releases/tag/v2.21.0</url>
       <win64_installer_with_compiler sha256="708d515cc3d7e98438d2c5ab23177c56aa5ccb02843384f6ae483a34a0d89307">https://github.com/Hopsan/hopsan/releases/download/v2.21.0/Hopsan-2.21.0-win64-with_compiler-installer.exe</win64_installer_with_compiler>
